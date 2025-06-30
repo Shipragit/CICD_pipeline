@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_fobr_student_det.student_marks_user" name="x_fobr_student_det.student_marks_user">fd64cfc81b6e6650098c213b234bcb47</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>samarth.vijaykumar@brightspeed.com</sys_created_by>
+        <sys_created_on>2025-06-30 17:45:03</sys_created_on>
+        <sys_id>3964cfc81b6e6650098c213b234bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd64cfc81b6e6650098c213b234bcb47</sys_name>
+        <sys_package display_value="Student_Details" source="x_fobr_student_det">c6f307c81b6e6650098c213b234bcbca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student_Details">c6f307c81b6e6650098c213b234bcbca</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3964cfc81b6e6650098c213b234bcb4a</sys_update_name>
+        <sys_updated_by>samarth.vijaykumar@brightspeed.com</sys_updated_by>
+        <sys_updated_on>2025-06-30 17:45:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
