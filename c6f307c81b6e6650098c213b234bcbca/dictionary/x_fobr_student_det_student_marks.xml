@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d334cbc81b6e6650098c213b234bcba6" label="Student_Marks" max_length="40" name="x_fobr_student_det_student_marks" type="collection">
+        <element label="Marks" max_length="10" name="marks" type="integer"/>
+        <element label="Name" max_length="20" name="name" type="string"/>
+    </element>
+</database>
